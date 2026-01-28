@@ -1,0 +1,5 @@
+{
+  "name": "Youth Activity Statistics Search",
+  "description": "A web application that allows users to search and get detailed answers about youth activity statistics using the KOSIS API and Gemini AI.",
+  "requestFramePermissions": []
+}
